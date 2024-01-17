@@ -1,3 +1,3 @@
 # practice5
 
-Utilizing optiona chaining and nil coalescing operator. 
+Utilizing optional chaining and nil coalescing operator. 
